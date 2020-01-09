@@ -17,6 +17,7 @@ __Awesome Bio reads__
 - https://github.com/raivivek/awesome-biology: Curated list of resources for Biology.
 - https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging: A list of awesome selected resources towards the application of machine learning in Biomedical/Healthcare Imaging, inspired by
 - https://github.com/yangkky/Machine-learning-for-proteins: Listing of papers about machine learning for proteins.
+- https://github.com/gokceneraslan/awesome-deepbio: A curated list of awesome deep learning applications in the field of computational biology
 
 __Others__
 
