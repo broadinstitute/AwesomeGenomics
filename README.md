@@ -45,10 +45,17 @@ __Others__
 
 ### Neat python
 
+- [POT](https://github.com/rflamary/POT): library for solving optimal transport optimization problems.
+- [Itrask](https://github.com/iamtrask): set of differential privacy tools for analyzing data!
+- [JKBio](): Jeremie Kalfon's python scripts for genomics.
+- [CDSpy](): some plotting scripts for genomic analysis.
+
+
 
 ### Neat R
 
 
+### Other
 
 ## Genomics
 
@@ -68,6 +75,7 @@ __Others__
 ### Others
 
 
+
 ## Single Cell
 
 ### Expression
@@ -81,6 +89,18 @@ __Others__
 A lot is available for ChIPseq from [crazyhottommy's repo](https://github.com/crazyhottommy/ChIP-seq-analysis) 
 
 ### ChIPseq and related
+
+- [EPIC2](https://github.com/biocore-ntnu/epic2): calling peaks from ChIP seq
+- [DeepBind](http://tools.genes.toronto.edu/deepbind) predicting binding location from previous binding data with CNN
+- [coda](https://github.com/kundajelab/coda): denoising ChIPseq data with CNNs
+- [CREAM](https://github.com/bhklab/CREAM): identifying clusters of functional regions within the genome from ChIPseq data
+- [ngsplot](https://github.com/shenlab-sinai/ngsplot): multi omics viz tool at specific locus
+- [epi-corr](https://github.com/broadinstitute/epi-correlation): correlation tool for pairs of ChIP seq data
+
+#### diff binding 
+
+- [MACS2 diff binding](https://github.com/taoliu/MACS/wiki/Call-differential-binding-events): how to do differential binding analysis with MACS2.
+
 
 ### ATACseq
 
